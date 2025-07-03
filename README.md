@@ -6,10 +6,8 @@ This project demonstrates how to fetch and display user data from a public API u
 
 ## 🔗 Live Demo
 
-👉 [Live Demo (GitHub Pages)](https://your-username.github.io/task-07/)  
-*(Replace with your actual GitHub URL after deployment)*
+👉 https://ershicvam.github.io/task-07/
 
----
 
 ## 📌 Features
 
